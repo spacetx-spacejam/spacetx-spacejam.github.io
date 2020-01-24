@@ -1,0 +1,132 @@
+@import 'https://fonts.googleapis.com/css?family=Comfortaa:400,700|Fredoka+One|Nunito:400,800,900|Poiret+One|Quicksand:400,500,700';
+
+html,
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.navigation ul {
+  margin: 0;
+  padding: 0;
+  text-align: right;
+}
+
+.navigation li {
+  font-weight: 100;
+  letter-spacing: 2px;
+  padding: 20px;
+  display: inline-block;
+}
+
+nav ul li a {
+  color: #000;
+  text-decoration: none;  
+}
+
+nav ul li a:hover {
+  color: grey;
+}
+
+#banner {
+  background-image: url("https://cdn.pixabay.com/photo/2016/11/29/05/34/new-york-1867569_1280.jpg");
+  background-size: cover;
+  background-position: center center;
+  height: 300px;
+  width: 100%;
+}
+
+#banner .content h1 {
+  position: relative;
+  top: 60px;
+  width: 400px;
+  margin: 0 auto;
+}
+
+#main {
+  margin: 0 auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: left;
+  width: 1000px;
+  resize: both;
+}
+
+a { 
+  color: black;
+  text-decoration: underline;
+}
+
+h1 {
+  color: white;
+  font-size: 60px;
+  font-weight: 800;
+  text-align: center;
+  margin-top: 60px;
+  margin-bottom: 100px;
+}
+
+h2 {
+  color: rgb(25, 48, 77);
+  font-size: 26px;
+  font-weight: 600;
+  line-height: 48px;
+  text-align: center;
+}
+
+h3 {
+  color: rgb(72, 93, 120);
+  font-size: 26px;
+  font-weight: 700;
+  text-align: left;
+}
+
+h4 {
+  color: rgb(25, 48, 77);
+  font-size: 18px;
+  font-weight: 700;
+  text-align: left;
+}
+
+p {
+  color: black;
+  font-size: 16px;
+  font-weight: 100;
+  margin-top: 5px;
+  line-height: 200%;
+  text-align: left;
+}
+
+ul {
+  list-style-type: disc;
+  color: black;
+  font-size: 16px;
+  font-weight: 100;
+  margin-top: 5px;
+  line-height: 200%;
+  text-align: left;
+}
+
+.share {
+  padding: 40px 0px;
+  position: relative;
+  text-align: center;
+  width: 100%;
+}
+
+.footer a {
+  background: rgb(2, 117, 247);
+  border: 1px solid rgb(2, 117, 247);
+  border-radius: 3px;
+  color: white;
+  display: inline-block;
+  margin: 10px;
+  padding: 14px;
+  text-decoration: none;
+}
+
+.footer a:hover {
+  background: white;
+  border: 1px solid blue;
+  color: blue;
+}
