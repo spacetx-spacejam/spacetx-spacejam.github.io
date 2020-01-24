@@ -1,13 +1,8 @@
-## presentations from normjam:
-- [framing the problem](Ganguli_Satija_Framing_the_problem.pdf) 
-- [the scTransform approach](Hafemeister_scTransform.pdf)
-- [the glmPCA approach](Townes_glmPCA.pdf)
-- [the BASiCS approach](Vallejos_BASiCS.pdf)
-- [the scNorm approach](Bacher_scnorm.pdf)
-- [the BISCUIT approach](Prabhakaran_BISCUIT.pdf)
-- [What is the right statistical distribution for modeling technical variability?](Batson_Hicks_technical_variability.pdf)
-- [How do we handle mean the mean variance relationship of single cell expression data?](Satija_Svensson_mean_variance.pdf)
-- [How do we define what it means to normalize successfully?](Irizarry_Kharchenko_normalizing_success.pdf)
-- [What are potential biological and negative controls that we can use to assess normalization?](Pisco_Vallejos_normjam-biological-controls.pdf)
-- [Working Group: Controls](NormJam_Controls.pdf)
-- [Working Group: Posterior Predictive Checks](PPCs.pdf)
+# normjam.github.io
+normjam: a workshop on the normalization of scRNA-seq data
+
+See our [website](https://normjam.github.io/) for more information.
+
+For contributions to the white paper (nomenclature + others) please add to this [doc](https://docs.google.com/document/d/1o3AewJCiWtht8OYOIj6UZKMc1V5xLHGTvgmcsWJFUNA/edit)
+
+The Benchmarking Plea to normjam attendees can be found [here](https://docs.google.com/document/d/1Ras4Lik5vfUtjfz-Cowk7CueREQy4qX_rsgrYtyvK7w/edit#heading=h.dbyjc4pq1swl)
