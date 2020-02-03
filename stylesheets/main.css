@@ -38,6 +38,7 @@ nav ul li a:hover {
 
 #banner .content h1 {
   position: relative;
+  top: 250px;
   width: 400px;
   margin: 0 auto;
 }
